@@ -1,27 +1,19 @@
-# 🔐 Login Password Checker (Python GUI)
+# Password Checker (Python GUI)
 
-A simple Python GUI application that checks whether a user-entered password is valid or not.
+Password Checker is a simple Python GUI application that validates a user-entered password and displays the result instantly.  
+This project is designed for beginners to practice Python logic, GUI programming, and basic input validation.
 
-This project is beginner-friendly and helps in understanding Python GUI programming and basic validation logic.
-
----
-
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Tkinter
 
----
+## Features
+- User-friendly graphical interface  
+- Password input and validation  
+- Instant feedback  
 
-## ✨ Features
-- Simple and clean GUI
-- Takes password input from the user
-- Validates the password
-- Shows instant result
-
----
-
-## ▶️ How to Run the Project
-
-1. Make sure Python is installed:
+## How to Run
+1. Make sure Python is installed.
+2. Run the program:
    ```bash
-   python --version
+   python main.py
